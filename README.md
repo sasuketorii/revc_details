@@ -8,7 +8,7 @@
 
 [![GitHub](https://img.shields.io/github/license/sasuketorii/revc_details?color=blue)](LICENSE)
 [![YAML](https://img.shields.io/badge/Format-YAML-green)](identity/corporate-identity.yaml)
-[![Website](https://img.shields.io/badge/Website-rev--c.jp-orange)](https://rev-c.jp/prototype/about)
+[![Website](https://img.shields.io/badge/Website-rev--c.jp-orange)](https://company.rev-c.com/)
 
 </div>
 
@@ -87,7 +87,7 @@
 ## 📞 お問い合わせ
 
 ### ウェブサイト
-🌐 [https://rev-c.jp/prototype/about](https://rev-c.jp/prototype/about)
+🌐 [https://company.rev-c.com/](https://company.rev-c.com/)
 
 ### 事業に関するお問い合わせ
 - AI教育・研修のご相談
@@ -108,7 +108,6 @@
 ## 📈 目標・KPI
 
 - **2030年目標**: 中小企業AI活用率No.1企業
-- **評価スコア**: 95/100点（記憶定着率・感情訴求力・差別化力等）
 - **社会的インパクト**: 日本経済の競争力再生への貢献
 
 ## 📄 ライセンス
@@ -121,7 +120,7 @@
 
 **🌟 一緒に日本の未来を変えませんか？ 🌟**
 
-[![Website](https://img.shields.io/badge/Join_Us-rev--c.jp-blue?style=for-the-badge)](https://rev-c.jp/prototype/about)
+[![Website](https://img.shields.io/badge/Join_Us-rev--c.jp-blue?style=for-the-badge)](https://company.rev-c.com/)
 
 *Last updated: December 2024*
 
