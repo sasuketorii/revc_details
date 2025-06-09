@@ -1,0 +1,114 @@
+# 株式会社REV-C 企業アイデンティティ
+# Corporate Identity for REV-C Co., Ltd.
+# Generated: 2024
+# Version: Final 1.0
+
+company:
+  name: "株式会社REV-C"
+  name_en: "REV-C Co., Ltd."
+  website: "https://rev-c.jp/prototype/about"
+  
+corporate_identity:
+  
+  # 企業理念 (Corporate Philosophy)
+  philosophy:
+    main: "AIで会社を変える。日本の競争力を覚醒させる。"
+    description: |
+      私たちは中小企業一社一社の変革を通じて、日本全体の眠れる競争力を覚醒させます。
+      AIという武器で、従来の常識を打ち破り、新しい価値創造の時代を切り拓く革命の担い手です。
+    keywords:
+      - "AI"
+      - "変革"
+      - "競争力覚醒"
+      - "革命の担い手"
+  
+  # ミッション (Mission)
+  mission:
+    main: "AIで中小企業を最強化し、大手企業を追い抜く競争力を創造する"
+    description: |
+      私たちの三位一体戦略（AI教育・AI戦略・AI開発）で中小企業を「最強化」し、
+      従来は大手企業の専売特許だった高度な分析力、効率性、顧客対応力を実現。
+      規模の劣勢を技術の優勢で覆します。
+    strategy:
+      - "AI教育 (AI Tutor)"
+      - "AI戦略 (AI Strategy)"
+      - "AI開発 (AI Development)"
+    keywords:
+      - "最強化"
+      - "三位一体戦略"
+      - "競争力創造"
+  
+  # ビジョン (Vision)
+  vision:
+    main: "2030年、中小企業AI革命の旗手として日本の競争力を再生させる"
+    target_year: 2030
+    description: |
+      6年後、私たちは中小企業のAI活用において日本で最も信頼される存在となり、
+      その実績が日本経済の再生と世界競争力の回復に直結している。
+      「中小企業AIといえばREV-C」の圧倒的ブランド力を確立します。
+    goals:
+      - "中小企業AI活用率No.1企業"
+      - "日本経済の再生"
+      - "世界競争力の回復"
+      - "圧倒的ブランド力確立"
+    keywords:
+      - "AI革命の旗手"
+      - "日本の競争力再生"
+      - "ブランド力"
+  
+  # パーパス (Purpose)
+  purpose:
+    main: "『できない』の壁をAIで破り続け、不可能を可能にする新時代を創る"
+    description: |
+      「人手が足りない」「技術がない」「予算がない」。
+      中小企業を縛る『できない』の壁を、AIという最強のツールで次々と破り続ける。
+      一つひとつの突破が積み重なり、「不可能はない」新時代を創造します。
+    challenges:
+      - "人手不足"
+      - "技術格差"
+      - "予算制限"
+    solution: "AI"
+    keywords:
+      - "壁を破る"
+      - "不可能を可能に"
+      - "新時代創造"
+
+# 評価指標 (KPIs)
+evaluation:
+  score: 95
+  criteria:
+    memorability: 95  # 記憶定着率
+    emotional_appeal: 92  # 感情訴求力
+    differentiation: 90  # 差別化力
+    action_motivation: 88  # 行動促進力
+    brand_power: 93  # ブランド力
+  
+  strengths:
+    - "リズム感のある短文で覚えやすい"
+    - "感情に訴えるパワーワード効果的活用"
+    - "独自ポジションの確立"
+    - "具体的課題の明示で共感性向上"
+    - "一貫したメッセージでブランドイメージ構築"
+
+# メタデータ
+metadata:
+  created_date: "2024-12-19"
+  version: "1.0"
+  status: "final"
+  target_achievement: "5年で日本一企業"
+  psychological_approach: "大衆心理学・洗脳手法ベース"
+  
+# 使用ガイドライン
+usage_guidelines:
+  internal:
+    - "全社員が暗唱できるまで浸透させる"
+    - "朝礼・会議で定期的に唱和する"
+    - "採用面接で候補者に説明する"
+  external:
+    - "営業資料の冒頭に必ず記載"
+    - "ウェブサイトのトップページに表示"
+    - "プレスリリースに含める"
+  design:
+    - "ロゴと組み合わせてビジュアル化"
+    - "名刺・パンフレットに印刷"
+    - "オフィス壁面に掲示" 
